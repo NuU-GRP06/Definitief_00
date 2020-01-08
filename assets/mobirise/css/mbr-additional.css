@@ -4855,7 +4855,6 @@ section.lazy-placeholder:after {
     padding: 0;
     transition-duration: .5s;
     transition-property: opacity,padding,height;
-    background-color: rgba(255,255,255,0.7);
   }
   .cid-rJ2ByrjtNE .dropdown.open > .dropdown-menu {
     position: relative;
@@ -5101,4 +5100,9 @@ section.lazy-placeholder:after {
   .cid-rKJuYEeTOR .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+
+.video
+{
+	margin-top: -50px;
 }
